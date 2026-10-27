@@ -17,4 +17,4 @@ Mi piace costruire applicazioni che risolvono problemi reali: le mie app più us
 - **[Gestionale Vendite & Magazzino](https://github.com/davideruggeri/pw)**: applicazione web con ruoli, KPI e notifiche sulle scorte. *Laravel, MySQL*
 
 ### 📫 Contatti
-✉️ davide.ruggeri.2003@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/davide-ruggeri)
+✉️ davide.ruggeri.2003@gmail.com · 💼 [LinkedIn]()
