@@ -13,6 +13,7 @@ Mi piace costruire applicazioni che risolvono problemi reali: le mie app più us
 ### 📌 Progetti in evidenza
 - **[BubbaApp](https://github.com/davideruggeri/BubbaApp)**: app gestionale per una squadra di Ultimate Frisbee, con statistiche live delle partite, presenze e tornei. Usata ogni settimana dalla squadra. *React Native, Expo, Firebase*
 - **[DiscAnalytix](https://github.com/davideruggeri/DiscAnalytix)**: analisi video delle partite di Ultimate Frisbee, con tagging delle azioni, timeline e statistiche · [demo](https://discanalytix.web.app). *React Native, Expo, Firebase, YouTube API*
+- **[Bang](https://github.com/davideruggeri/Bang)**: gioco di carte western a turni, in singolo contro i bot o online con lobby e codice d'invito. Motore di gioco con API REST e interfaccia web. *Java, React, TypeScript*
 - **[HeadBall](https://github.com/davideruggeri/HeadBallDef)**: gioco multiplayer 2D con architettura client/server e fisica scritta da zero. *Java*
 - **[Gestionale Vendite & Magazzino](https://github.com/davideruggeri/pw)**: applicazione web con ruoli, KPI e notifiche sulle scorte. *Laravel, MySQL*
 - **[BrancoApp](https://github.com/davideruggeri/BrancoApp)**: gestionale multi-gruppo per scout: presenze, quote, spese e comunicazioni ai genitori, con ruoli e regole di sicurezza. *React Native, Expo, Firebase*
