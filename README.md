@@ -19,4 +19,4 @@ Mi piace costruire applicazioni che risolvono problemi reali: le mie app più us
 - **[BrancoApp](https://github.com/davideruggeri/BrancoApp)**: gestionale multi-gruppo per scout: presenze, quote, spese e comunicazioni ai genitori, con ruoli e regole di sicurezza. *React Native, Expo, Firebase*
 
 ### 📫 Contatti
-✉️ davide.ruggeri.2003@gmail.com · 💼 [LinkedIn](www.linkedin.com/in/davideruggeri-dev)
+✉️ davide.ruggeri.2003@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/davideruggeri-dev)
